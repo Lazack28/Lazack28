@@ -33,4 +33,9 @@ My github stats
 
 <h3>
 
+<h6>
+    <p>
 
+*Lazack28* is a passionate *Web Developer* specializing in *HTML*, *CSS*, *JavaScript*. With a focus on building responsive, user-friendly websites and whatsapp bots, I strive to deliver high-quality, efficient solutions that ensure seamless user experiences. Always eager to learn and grow, I'm dedicated to creating clean, maintainable code and staying up-to-date with the latest web development trends.
+</p>
+</h6>
